@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Mi suite de pruebas">
+	<test name="login">
+		<classes>
+			<class name="com.qualitystream.testng.TestNGDataProviderExample" />
+		</classes>
+	</test>
+	
+
+</suite> <!-- Default suite -->
